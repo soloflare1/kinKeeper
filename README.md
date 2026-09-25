@@ -1,4 +1,4 @@
-Live Site: 
+Live Site: https://mellifluous-naiad-420dd1.netlify.app/
 
 # KinKeeper
 Kinkeeper is a personal CRM designed to help users track interactions with friends, set contact frequency goals, and log 

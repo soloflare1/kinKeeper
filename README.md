@@ -1,16 +1,21 @@
-# React + Vite
+Live Site: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# KinKeeper — Keep Your Friendships Alive
 
-Currently, two official plugins are available:
+KinKeeper is a Personal CRM designed to help users track interactions with friends, set contact frequency goals, and log check-ins like calls, texts, and video chats.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
 
-## React Compiler
+- **Framework:** React.js (Vite)
+- **Routing:** React Router DOM v6
+- **Styling:** Tailwind CSS
+- **Data Visualization:** Recharts
+- **Notifications:** React Hot Toast
+- **Icons:** Lucide React & Custom Local Assets
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Key Features
 
-## Expanding the ESLint configuration
+1. **Friend Contact Tracking:** Displays contact statuses (`overdue`, `almost due`, `on-track`) with visual badge indicators.
+2. **Interactive Quick Check-In:** Log calls, texts, or video chats directly from a friend's details page, updating global state and showing toast notifications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. **Friendship Analytics:** Visual representation of interaction history using a Recharts Pie Chart.

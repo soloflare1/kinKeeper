@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "David Kim",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "days_since_contact": 12,
+    "goal_days": 30,
+    "next_due": "Oct 15, 2026",
+    "status": "In Touch",
+    "tags": ["WORK", "TECH"],
+    "bio": "\"Lead developer and software architect.\"",
+    "preferred_contact": "email"
+  },
+  {
+    "id": "2",
+    "name": "Emma Wilson",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "days_since_contact": 62,
+    "goal_days": 30,
+    "next_due": "Aug 25, 2026",
+    "status": "Overdue",
+    "tags": ["FAMILY"],
+    "bio": "\"Former colleague, great mentor and advisor.\"",
+    "preferred_contact": "call"
+  },
+  {
+    "id": "3",
+    "name": "Lisa Nakamura",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "days_since_contact": 28,
+    "goal_days": 30,
+    "next_due": "Sep 27, 2026",
+    "status": "Almost Due",
+    "tags": ["WORK", "DESIGN"],
+    "bio": "\"Product designer and tech community lead.\"",
+    "preferred_contact": "text"
+  },
+  {
+    "id": "4",
+    "name": "James Wright",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "days_since_contact": 45,
+    "goal_days": 15,
+    "next_due": "Sep 10, 2026",
+    "status": "Overdue",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "\"Outdoor adventure photographer & hiker.\"",
+    "preferred_contact": "text"
+  },
+  {
+    "id": "5",
+    "name": "Sophia Patel",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "days_since_contact": 5,
+    "goal_days": 14,
+    "next_due": "Oct 04, 2026",
+    "status": "In Touch",
+    "tags": ["FRIEND", "COLLEGE"],
+    "bio": "\"Data analyst and AI enthusiast.\"",
+    "preferred_contact": "video"
+  },
+  {
+    "id": "6",
+    "name": "Marcus Vance",
+    "picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+    "days_since_contact": 19,
+    "goal_days": 20,
+    "next_due": "Sep 26, 2026",
+    "status": "Almost Due",
+    "tags": ["BUSINESS", "INVESTOR"],
+    "bio": "\"Startup founder and angel investor.\"",
+    "preferred_contact": "email"
+  },
+  {
+    "id": "7",
+    "name": "Aria Chen",
+    "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150",
+    "days_since_contact": 3,
+    "goal_days": 7,
+    "next_due": "Sep 29, 2026",
+    "status": "In Touch",
+    "tags": ["BEST FRIEND"],
+    "bio": "\"UX researcher and coffee addict.\"",
+    "preferred_contact": "call"
+  },
+  {
+    "id": "8",
+    "name": "Liam O'Connor",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "days_since_contact": 90,
+    "goal_days": 60,
+    "next_due": "Jul 20, 2026",
+    "status": "Overdue",
+    "tags": ["CHILDHOOD", "HOBBY"],
+    "bio": "\"Musician, guitarist, and sound engineer.\"",
+    "preferred_contact": "text"
+  }
+]
